@@ -5,9 +5,10 @@
   "version": "0.1.0",
   "publisher": "freeai",
   "license": "MIT",
+  "homepage": "https://free.ai/code/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeaigit/free-vscode"
+    "url": "https://github.com/muddyholdings/free-vscode"
   },
   "engines": {
     "vscode": "^1.85.0"
