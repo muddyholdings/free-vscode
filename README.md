@@ -50,6 +50,17 @@ Works out of the box with Free.ai's free tier. For higher limits, add your API k
 | `freeai.googleKey` | `""` | Google AI API key (BYOK) |
 | `freeai.openrouterKey` | `""` | OpenRouter API key (BYOK) |
 
+## Prefer the terminal?
+
+The same Free.ai coding agent runs as an open-source CLI, [free-code](https://github.com/muddyholdings/free-code):
+
+```bash
+curl -fsSL https://free.ai/install.sh | sh     # macOS / Linux
+irm https://free.ai/install.ps1 | iex          # Windows PowerShell
+```
+
+Setup guide: https://free.ai/code/cli/
+
 ## License
 
 MIT
